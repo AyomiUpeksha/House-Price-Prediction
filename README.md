@@ -35,17 +35,17 @@
 <h3> With Python </h3>
 
 <article>
-    <h4>R Packages</h4>
+    <h4>Python Packages</h4>
     <p><h6>sklearn | numpy | matplotlib| pandas | seaborn
   </article>
   
   <article>
-    <h4>R Packages</h4>
-    <p><h6> * Outliers are handled
-    <p>* Performed Correlation Analysis 
+    <h4> Process</h4>
+    <p> <h6> * Outliers are handled
+    <p> * Performed Correlation Analysis 
     <p> * Dummy Variables are created
-    <p> *Calculate Adjusted R squared value
-    <p> Calculated RMSE & mean absolute error (MAE)
-    <p> Checked the normality Assumption using histogram and Kolmogorov smirnov test
+    <p> * Calculate Adjusted R squared value
+    <p> * Calculated RMSE & mean absolute error (MAE)
+    <p> * Checked the normality Assumption using histogram and Kolmogorov smirnov test
   </article>
 
