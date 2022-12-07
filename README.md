@@ -1,17 +1,23 @@
 
 <main>
   <h2>House Price Prediction &#127968;&#128178;</p></h2>
-  <h3> With R </h3>
+  
+  ### [1. With R](https://github.com/AyomiUpeksha/House-Price-Prediction/blob/main/House%20Price%20Prediction.R)
   <p>Data Set</p>
   <p>The data set includes the house price and orther information of houses from Poland in 2021.<p>
-  <p>Source : https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland.<p>
-  <P>Contain 23764 observations and 11 variables.<p>
-  <P>address - Full addres ;city - Warszawa (Warsaw), Kraków (Cracow), Poznań (Poznan).;
+  
+  Source : [here](https://github.com/AyomiUpeksha/House-Price-Prediction/blob/main/Houses.csv).
+  
+  <article>
+  <P><h6>Contain 23764 observations and 11 variables.<p>
+  <P> - address - Full addres ;city - Warszawa (Warsaw), Kraków (Cracow), Poznań (Poznan).;
   floor - The number of the floor where the apartment is located; id - id ; latitude - latitude ; longitude - longitude;
   price - Price of apartment in PLN [TARGET] ; rooms - Number of rooms in the apartment ; sq - Number of square meters of the apartment ; year - Year of the building / apartment
+    </article>
+    
   <article>
     <h4>R Packages</h4>
-    <p><h6>tidyverse | magrittr | rsample| broom | modelr| GGally| ggplot2| car| lindia | MLmetrics</h6><p>
+    <p><h5>tidyverse | magrittr | rsample| broom | modelr| GGally| ggplot2| car| lindia | MLmetrics</h5><p>
   </article>
 
   <article>
@@ -32,20 +38,21 @@
   </article>
 </main>
 
-<h3> With Python </h3>
+### [2. With Python](https://github.com/AyomiUpeksha/House-Price-Prediction/blob/main/House_Price_Prediction.ipynb) 
 
+[Dataset](https://github.com/AyomiUpeksha/House-Price-Prediction/blob/main/housing.csv)
 <article>
     <h4>Python Packages</h4>
-    <p><h6>sklearn | numpy | matplotlib| pandas | seaborn
+    <p><h5>sklearn | numpy | matplotlib| pandas | seaborn</h5><p>
   </article>
   
   <article>
     <h4> Process</h4>
-    <p> <h6> * Outliers are handled
-    <p> * Performed Correlation Analysis 
-    <p> * Dummy Variables are created
-    <p> * Calculate Adjusted R squared value
-    <p> * Calculated RMSE & mean absolute error (MAE)
-    <p> * Checked the normality Assumption using histogram and Kolmogorov smirnov test
+    <p> <h6> - Outliers are handled
+    <p> - Performed Correlation Analysis 
+    <p> - Dummy Variables are created
+    <p> - Calculate Adjusted R squared value
+    <p> - Calculated RMSE & mean absolute error (MAE)
+    <p> - Checked the normality Assumption using histogram and Kolmogorov smirnov test
   </article>
 
